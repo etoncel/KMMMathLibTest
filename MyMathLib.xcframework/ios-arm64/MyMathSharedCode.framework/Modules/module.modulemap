@@ -1,0 +1,6 @@
+framework module MyMathSharedCode {
+    umbrella header "MyMathSharedCode.h"
+
+    export *
+    module * { export * }
+}
